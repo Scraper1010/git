@@ -2,5 +2,5 @@ import gg
 
 
 
-print("hi")
 gg.git()
+print("hi")
